@@ -1,48 +1,15 @@
-var _0x5b51 = ['javascript:void(0)', '</b>', 'placeholder', '.productDetail', 'html', 'closest', 'prependTo', 'blur', 'parents', '.poptamv-btn.waFix', 'data-popHeight', 'https://www.youtube.com/embed/', 'attr', 'toUpperCase', 'prototype', '_fbq', 'mfp-fade', 'substring', '.btnSearch', '.submit', ' .productCheckoutInfo .infoTitle', ' .pembayaran', 'header', 'src', 'perkenalkan, saya *', '.headerSearch', 'remove', 'a[href*="bp.blogspot.com"]', 'indexOf', '" belum Aktif..<br/><br/><a href="https://www.kangrian.net/p/aktivasi-lisensi-website.html" target="_blank" rel="nofollow external">Cara Aktivasi?</a>                            </div>                        </div>                    ', 'https://kangrian.github.io/TokoWhatsApp/wa.mp3', 'setItem', 'checkoutWhatsApp', '.formWA .wajib', 'lazy-bg', '.itemPost', 'bind', '/?m=1', 'addClass', 'parentNode', 'iframe', 'data-price', 'test', 'textarea.code', '.title-content', 'img', 'next', ' .hp', '"><i class="icon ion-logo-', '.poptamv-btn, .tombol-wa', 'loaded', '{}.constructor("return this")( )', 'delay', 'status', 'constructor', 'return (function() ', 'callMethod', '.headerSearch i.ion-ios-arrow-back', '<b>', 'removeAttr', 'hide', '&m=1', ' .wajib', 'userAgent', 'error', 'id tidak ditemukan', '.lightframe', '<small><span>-', '.tw_category .Label', ' .pesan', 'no_whatsapp', 'keyup', ' .title-content', 'change', 'FBPixel_ID', 'data-discount-percent', '— — — — — — — — — — — — — — —%0A%0A', 'auto', 'readonly', '*.%0A%0A', '                        <div style="position: fixed!important;z-index:999999!important;top:0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;">                            <div style="display: block!important;margin: auto!important;width: 600px!important;max-width:90%!important;text-align: center!important;background: #fff!important; padding: 40px!important;border-radius: 8px!important;">                                Lisensi Template untuk website "', 'background-image:url("', ' .productOptionInfo', 'getItem', '.productOrder a.tombol-wa', '.headerSearch form i.ion-md-close', 'magnificPopup', 'No. HP ( Aktif ) : ', 'data-width', 'exception', '#page-loader', ', height=', 'keyCode', 'scroll', 'version', 'toggleClass', 'load', 'ready', 'kirimWhatsApp', '1258762jTfGrb', '#checkoutWhatsApp .submit', '</s></small><b>', ' .nama', 'appendTo', '.content img', 'open', '872745eBdjOp', 'lightbox', '?autoplay=1', 'text', 'track', ', top=', '.tw_menu .LinkList', '.widget-item-control', 'hostname', 'ion-ios-menu', 'addEventListener', '1001711fNdGVV', 'fadeOut', 'onScroll', '.btnMenu, .closeMenu', '.btnNotif span', '1CwhiJa', 'getElementsByTagName', 'preload', '.quickedit', 'find', 'mfp-figure', 'https://connect.facebook.net/en_US/fbevents.js', 'split', 'InitiateCheckout', 'warn', 'toggle', '<span class="validasi"><b>', '.productCheckoutInfo .total', 'hideScroll', 'data-img', 'email', '.formWA input, .formWA textarea', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=', '.lightbox', 'async', 'location', '.. ', 'label', 'a.btnNotif', '" data-popWidth="1280" href="', 'pesan_salam', 'Contact', '<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=', 'script', 'PageView', 'data-popWidth', 'via ', '.poptamv', 'parent', 'data-tooltip', 'length', 'data-src', '.formWA textarea.catatan', '<span class='
-        productPrice_after '>Test</span>', 'beforeunload', 'related', 'href', '.*%0A%0A', 'each', '&amp;ev=PageView&amp;noscript=1"/></noscript>', 'active', 'https://api.whatsapp.com/send', 'body', 'ss_notif', 'val', 'data-selected', 'log', 'virtual', '.item', 'replace', 'a[href*="https://www.youtube.com/watch?v="]', '.formWA select', '.validasi', '");visibility:none!important', 'after', 'image', '605086cSvPMG', '.btnNotif', 'nama_admin', '*Catatan :*%0A', 'Escape', ' )%0A%0A', 'IDR', ' .catatan', '%0A', '
-        Terima kasih!Admin "','focus','ion-md-phone-portrait','trim','waFix','show','data-blogID','console','.productPrice_after','.headerSearch form .text','tel','virtual_products','push','.lazy-bg','*Metode Pembayaran :*%0A','.LinkList li a[href*="
-        # "]','487840zxKYzf','.productOptionInfo small:nth-last-child(1), .productOptionInfo small:nth-last-child(2)','<a class="
-        popWin ','
-        append ','
-        default ','
-        ion - ios - arrow - up ','
-        trigger ','
-        type ','
-        height ','.poptamv.closeTamv ','
-        ul: first ','.btnCat, .closeCategory, .btnCategory, .tw_category.utama ','.alamat ','
-        style ','
-        click ','.LinkList li a: contains("_")
-        ','
-        markup ','
-        ViewContent ','
-        popWin videoYoutube ','
-        saya mau beli * ','
-        return /" + this + "/
-        ','
-        removeClass ','.formWA ','
-        target ','
-        fadeIn ','.productCheckout ','.popWin ',' < /b> (dibutuhkan)</span > ','
-        Atas Nama. % 0 A * ','
-        max - width: ','.formWA[type = email]
-        ','
-        background - image: url(','
-            "  :]
-            Sudah menjadi Donatur Kopi https: //KangRian.NET
-            ','
-            apply ',' & text = ','
-            No.HP(Aktif)..
-            ','
-            7 EHXODq ',' % < /span><s>','toString','mfp-figure mfp-with-anim','707214IJiXUd','569631cvSoWh','<ul></ul > ','
-            data - effect ','
-            canplaythrough ','.dd ','
-            a.lightbox ','
-            width ','
-            createElement ',' * Alamat: * % 0 A ','.btnMenu ','.tw_search ',' % 0 A % 0 A ','
-            queue ','
-            scrollTop ','
-            "></i></a>','.poptamv-wrap','fadeToggle','px!important;','#checkoutWhatsApp .formWA .submit','.formWA .submit','Purchase','trace','#checkoutWhatsApp .alamat','select','load_notif','?phone=','💬 ','audio'];
-
 'use strict';
+var _0x5b51 = ["javascript:void(0)", "</b>", "placeholder", ".productDetail", "html", "closest", "prependTo", "blur", "parents", ".poptamv-btn.waFix", "data-popHeight", "https://www.youtube.com/embed/", "attr", "toUpperCase", "prototype", "_fbq", "mfp-fade", "substring", ".btnSearch", ".submit", " .productCheckoutInfo .infoTitle", " .pembayaran", "header", "src", "perkenalkan, saya *", ".headerSearch", "remove", 'a[href*="bp.blogspot.com"]', "indexOf", '" belum aktif..<br/><br/><a href="https://www.kangrian.net/p/aktivasi-lisensi-website.html" target="_blank" rel="nofollow external">Cara Aktivasi?</a>                            </div>                        </div>                    ',
+"https://kangrian.github.io/TokoWhatsApp/wa.mp3", "setItem", "checkoutWhatsApp", ".formWA .wajib", "lazy-bg", ".itemPost", "bind", "/?m=1", "addClass", "parentNode", "iframe", "data-price", "test", "textarea.code", ".title-content", "img", "next", " .hp", '"><i class="icon ion-logo-', ".poptamv-btn, .tombol-wa", "loaded", '{}.constructor("return this")( )', "delay", "status", "constructor", "return (function() ", "callMethod", ".headerSearch i.ion-ios-arrow-back", "<b>", "removeAttr", "hide", "&m=1",
+" .wajib", "userAgent", "error", "id tidak ditemukan", ".lightframe", "<small><span>-", ".tw_category .Label", " .pesan", "no_whatsapp", "keyup", " .title-content", "change", "FBPixel_ID", "data-discount-percent", "\u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014%0A%0A", "auto", "readonly", "*.%0A%0A", '                        <div style="position: fixed!important;z-index:999999!important;top:0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;">                            <div style="display: block!important;margin: auto!important;width: 600px!important;max-width:90%!important;text-align: center!important;background: #fff!important; padding: 40px!important;border-radius: 8px!important;">                                Lisensi Template untuk website "',
+'background-image:url("', " .productOptionInfo", "getItem", ".productOrder a.tombol-wa", ".headerSearch form i.ion-md-close", "magnificPopup", "No. HP (aktif) : ", "data-width", "exception", "#page-loader", ", height=", "keyCode", "scroll", "version", "toggleClass", "load", "ready", "kirimWhatsApp", "1258762jTfGrb", "#checkoutWhatsApp .submit", "</s></small><b>", " .nama", "appendTo", ".content img", "open", "872745eBdjOp", "lightbox", "?autoplay=1", "text", "track", ", top=", ".tw_menu .LinkList",
+".widget-item-control", "hostname", "ion-ios-menu", "addEventListener", "1001711fNdGVV", "fadeOut", "onScroll", ".btnMenu, .closeMenu", ".btnNotif span", "1CwhiJa", "getElementsByTagName", "preload", ".quickedit", "find", "mfp-figure", "https://connect.facebook.net/en_US/fbevents.js", "split", "InitiateCheckout", "warn", "toggle", '<span class="validasi"><b>', ".productCheckoutInfo .total", "hideScroll", "data-img", "email", ".formWA input, .formWA textarea", "toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=",
+".lightbox", "async", "location", ".. ", "label", "a.btnNotif", '" data-popWidth="1280" href="', "pesan_salam", "Contact", '<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=', "script", "PageView", "data-popWidth", "via ", ".poptamv", "parent", "data-tooltip", "length", "data-src", ".formWA textarea.catatan", "<span class='productPrice_after'>Test</span>", "beforeunload", "related", "href", ".*%0A%0A", "each", '&amp;ev=PageView&amp;noscript=1"/></noscript>',
+"active", "https://api.whatsapp.com/send", "body", "ss_notif", "val", "data-selected", "log", "virtual", ".item", "replace", 'a[href*="https://www.youtube.com/watch?v="]', ".formWA select", ".validasi", '");visibility:none!important', "after", "image", "605086cSvPMG", ".btnNotif", "nama_admin", "*Catatan :*%0A", "Escape", " )%0A%0A", "IDR", " .catatan", "%0A", '\n\nTerima kasih! Admin "', "focus", "ion-md-phone-portrait", "trim", "waFix", "show", "data-blogID", "console", ".productPrice_after", ".headerSearch form .text",
+"tel", "virtual_products", "push", ".lazy-bg", "*Metode Pembayaran :*%0A", '.LinkList li a[href*="#"]', "487840zxKYzf", ".productOptionInfo small:nth-last-child(1), .productOptionInfo small:nth-last-child(2)", '<a class="popWin ', "append", "default", "ion-ios-arrow-up", "trigger", "type", "height", ".poptamv .closeTamv", "ul:first", ".btnCat, .closeCategory, .btnCategory, .tw_category .utama", " .alamat", "style", "click", '.LinkList li a:contains("_")', "markup", "ViewContent", "popWin videoYoutube",
+"saya mau beli *", 'return /" + this + "/', "removeClass", ".formWA", "target", "fadeIn", ".productCheckout", ".popWin", "</b> (dibutuhkan)</span>", "Atas Nama.%0A*", "max-width:", ".formWA [type=email]", "background-image:url(", '"Sudah menjadi donatur',
+"apply", "&text=", "No. HP (aktif)..", "7EHXODq", "%</span><s>", "toString", "mfp-figure mfp-with-anim", "707214IJiXUd", "569631cvSoWh", "<ul></ul>", "data-effect", "canplaythrough", ".dd", "a.lightbox", "width", "createElement", "*Alamat :*%0A", ".btnMenu", ".tw_search", "%0A%0A", "queue", "scrollTop", '"></i></a>', ".poptamv-wrap", "fadeToggle", "px!important;", "#checkoutWhatsApp .formWA .submit", ".formWA .submit", "Purchase", "trace", "#checkoutWhatsApp .alamat", "select", "load_notif", "?phone=",
+"\ud83d\udcac ", "audio"];
 function _0x1d93(totalExpectedResults, entrySelector) {
  totalExpectedResults = totalExpectedResults - 282;
  var _0x2e05f8 = _0x5b51[totalExpectedResults];
@@ -331,7 +298,7 @@ $(document)["on"](_0x298251(300), ".waFix", function() {
  var gotoNewOfflinePage = _0x298251;
  $(this)[gotoNewOfflinePage(367)](gotoNewOfflinePage(293), gotoNewOfflinePage(557))[gotoNewOfflinePage(367)]("placeholder", gotoNewOfflinePage(321))[gotoNewOfflinePage(307)](gotoNewOfflinePage(492))[gotoNewOfflinePage(393)]("hp");
  $(this)[gotoNewOfflinePage(360)](".item")[gotoNewOfflinePage(481)](".icon")["removeClass"]("ion-md-mail")[gotoNewOfflinePage(393)](gotoNewOfflinePage(549));
- $(this)[gotoNewOfflinePage(360)](gotoNewOfflinePage(530))[gotoNewOfflinePage(481)](".validasi b")[gotoNewOfflinePage(464)]("No. HP ( Aktif )..");
+ $(this)[gotoNewOfflinePage(360)](gotoNewOfflinePage(530))[gotoNewOfflinePage(481)](".validasi b")[gotoNewOfflinePage(464)]("No. HP (aktif)..");
 }), $(_0x298251(514))[_0x298251(360)](_0x298251(530))["insertBefore"](_0x298251(345));
 function kirimWA(picSize) {
  var getQunitPath = _0x298251;
@@ -508,7 +475,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i[_0x298251(3
 $(_0x298251(398))[_0x298251(520)](function() {
  var now = _0x298251;
  var href = $(this)[now(526)]();
- var initialMock = href[now(531)](/<br\s?\//g, "");
+ var initialMock = href[now(531)](/<br\s?\/?>/g, "");
  $(this)[now(526)](initialMock);
  $(this)["on"](now(300), function() {
    var mat = now;
@@ -583,8 +550,24 @@ if (tw_config[_0x298251(429)] != null || tw_config["FBPixel_ID"] != "") {
 }
 var thx_message = _0x298251(547) + window[_0x298251(497)]["hostname"][_0x298251(368)]() + _0x298251(318);
 if (pageMode != "related") {
- console["log"](thx_message);
+ if (!localStorage[_0x298251(438)]("kr")) {
+   window["onload"] = function() {
+     var gotoNewOfflinePage = _0x298251;
+     var sSep = window["location"][gotoNewOfflinePage(469)];
+     $["getJSON"]("https://member.kangrian.net/api/web-cek?prod_id=2&url=" + sSep, function(myPreferences) {
+       var sExp = gotoNewOfflinePage;
+       console[sExp(528)]();
+       if (myPreferences[sExp(408)] == 200) {
+         localStorage[sExp(386)]("kr", 1);
+         console[sExp(528)](thx_message);
+       } else {
+         var dayNames = sExp(435) + sSep + sExp(384);
+         $(dayNames)[sExp(458)](sExp(524));
+       }
+     });
+   };
  } else {
    console["log"](thx_message);
  }
+}
 ;
