@@ -581,12 +581,10 @@ if (tw_config[_0x298251(429)] != null || tw_config["FBPixel_ID"] != "") {
    fbq(gotoNewOfflinePage(465), gotoNewOfflinePage(503));
  });
 }
-
 var thx_message = _0x298251(547) + window[_0x298251(497)]["hostname"][_0x298251(368)]() + _0x298251(318);
 if (pageMode != "related") {
-	console["log"](thx_message);
+ console["log"](thx_message);
  } else {
    console["log"](thx_message);
  }
-}
 ;
