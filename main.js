@@ -1,7 +1,7 @@
 'use strict';
 /** @type {!Array} */
 var _0x5b51 = ["javascript:void(0)", "</b>", "placeholder", ".productDetail", "html", "closest", "prependTo", "blur", "parents", ".poptamv-btn.waFix", "data-popHeight", "https://www.youtube.com/embed/", "attr", "toUpperCase", "prototype", "_fbq", "mfp-fade", "substring", ".btnSearch", ".submit", " .productCheckoutInfo .infoTitle", " .pembayaran", "header", "src", "perkenalkan, saya *", ".headerSearch", "remove", 'a[href*="bp.blogspot.com"]', "indexOf", '" belum Aktif..<br/><br/><a href="https://www.kangrian.net/p/aktivasi-lisensi-website.html" target="_blank" rel="nofollow external">Cara Aktivasi?</a>                            </div>                        </div>                    ', 
-"https://kangrian.github.io/TokoWhatsApp/wa.mp3", "setItem", "checkoutWhatsApp", ".formWA .wajib", "lazy-bg", ".itemPost", "bind", "/?m=1", "addClass", "parentNode", "iframe", "data-price", "test", "textarea.code", ".title-content", "img", "next", " .hp", '"><i class="icon ion-logo-', ".poptamv-btn, .tombol-wa", "loaded", '{}.constructor("return this")( )', "delay", "status", "constructor", "return (function() ", "callMethod", ".headerSearch i.ion-ios-arrow-back", "<b>", "removeAttr", "hide", "&m=1", 
+"https://udomat.github.io/blogger/wa.mp3", "setItem", "checkoutWhatsApp", ".formWA .wajib", "lazy-bg", ".itemPost", "bind", "/?m=1", "addClass", "parentNode", "iframe", "data-price", "test", "textarea.code", ".title-content", "img", "next", " .hp", '"><i class="icon ion-logo-', ".poptamv-btn, .tombol-wa", "loaded", '{}.constructor("return this")( )', "delay", "status", "constructor", "return (function() ", "callMethod", ".headerSearch i.ion-ios-arrow-back", "<b>", "removeAttr", "hide", "&m=1", 
 " .wajib", "userAgent", "error", "id tidak ditemukan", ".lightframe", "<small><span>-", ".tw_category .Label", " .pesan", "no_whatsapp", "keyup", " .title-content", "change", "FBPixel_ID", "data-discount-percent", "\u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014%0A%0A", "auto", "readonly", "*.%0A%0A", '                        <div style="position: fixed!important;z-index:999999!important;top:0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;">                            <div style="display: block!important;margin: auto!important;width: 600px!important;max-width:90%!important;text-align: center!important;background: #fff!important; padding: 40px!important;border-radius: 8px!important;">                                Lisensi Template untuk website "', 
 'background-image:url("', " .productOptionInfo", "getItem", ".productOrder a.tombol-wa", ".headerSearch form i.ion-md-close", "magnificPopup", "No. HP ( Aktif ) : ", "data-width", "exception", "#page-loader", ", height=", "keyCode", "scroll", "version", "toggleClass", "load", "ready", "kirimWhatsApp", "1258762jTfGrb", "#checkoutWhatsApp .submit", "</s></small><b>", " .nama", "appendTo", ".content img", "open", "872745eBdjOp", "lightbox", "?autoplay=1", "text", "track", ", top=", ".tw_menu .LinkList", 
 ".widget-item-control", "hostname", "ion-ios-menu", "addEventListener", "1001711fNdGVV", "fadeOut", "onScroll", ".btnMenu, .closeMenu", ".btnNotif span", "1CwhiJa", "getElementsByTagName", "preload", ".quickedit", "find", "mfp-figure", "https://connect.facebook.net/en_US/fbevents.js", "split", "InitiateCheckout", "warn", "toggle", '<span class="validasi"><b>', ".productCheckoutInfo .total", "hideScroll", "data-img", "email", ".formWA input, .formWA textarea", "toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=", 
@@ -592,18 +592,3 @@ if (tw_config[_0x298251(429)] != null || tw_config["FBPixel_ID"] != "") {
       });
     });
   });
-  $(_0x298251(364))[_0x298251(300)](function() {
-    var gotoNewOfflinePage = _0x298251;
-    fbq(gotoNewOfflinePage(465), gotoNewOfflinePage(503));
-  });
-}
-var thx_message = _0x298251(547) + window[_0x298251(497)]["hostname"][_0x298251(368)]() + _0x298251(318);
-if (pageMode != "related") {
-  if (!localStorage[_0x298251(438)]("kr")) {
-    /**
-     * @return {undefined}
-     */
-    window["onload"] = function() {
-      console["log"](thx_message);
-}
-;
