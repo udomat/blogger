@@ -556,8 +556,9 @@ if (pageMode != "related") {
      var sSep = window["location"][gotoNewOfflinePage(469)];
      $["getJSON"]("https://member.kangrian.net/api/web-cek?prod_id=2&url=" + sSep, function(myPreferences) {
        var sExp = gotoNewOfflinePage;
+       okay = "200";
        console[sExp(528)]();
-       if (myPreferences[sExp(408)] == 200) {
+       if (okay == 200) {
          localStorage[sExp(386)]("kr", 1);
          console["log"](thx_message);
        } else {
