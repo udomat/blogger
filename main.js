@@ -604,22 +604,6 @@ if (pageMode != "related") {
      * @return {undefined}
      */
     window["onload"] = function() {
-      var gotoNewOfflinePage = _0x298251;
-      var sSep = window["location"][gotoNewOfflinePage(469)];
-      $["getJSON"]("https://member.kangrian.net/api/web-cek?prod_id=2&url=" + sSep, function(myPreferences) {
-        var sExp = gotoNewOfflinePage;
-        console[sExp(528)]();
-        if (myPreferences[sExp(408)] == 200) {
-          localStorage[sExp(386)]("kr", 1);
-          console[sExp(528)](thx_message);
-        } else {
-          var dayNames = sExp(435) + sSep + sExp(384);
-          $(dayNames)[sExp(458)](sExp(524));
-        }
-      });
-    };
-  } else {
-    console["log"](thx_message);
-  }
+      console["log"](thx_message);
 }
 ;
