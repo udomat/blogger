@@ -577,4 +577,49 @@ if (tw_config[_0x298251(429)] != null || tw_config["FBPixel_ID"] != "") {
       });
     });
   });
- 
+  $(_0x298251(439))[_0x298251(300)](function() {
+    var gotoNewOfflinePage = _0x298251;
+    fbq("track", gotoNewOfflinePage(485));
+  });
+  $(_0x298251(455))["each"](function() {
+    var gotoNewOfflinePage = _0x298251;
+    $(this)["on"](gotoNewOfflinePage(300), function() {
+      var titletemplate = gotoNewOfflinePage;
+      var command_module_id = rpToAngka($(titletemplate(489))["text"]());
+      fbq("track", titletemplate(347), {
+        "value" : command_module_id,
+        "currency" : titletemplate(544)
+      });
+    });
+  });
+  $(_0x298251(364))[_0x298251(300)](function() {
+    var gotoNewOfflinePage = _0x298251;
+    fbq(gotoNewOfflinePage(465), gotoNewOfflinePage(503));
+  });
+}
+var thx_message = _0x298251(547) + window[_0x298251(497)]["hostname"][_0x298251(368)]() + _0x298251(318);
+if (pageMode != "related") {
+  if (!localStorage[_0x298251(438)]("kr")) {
+    /**
+     * @return {undefined}
+     */
+    window["onload"] = function() {
+      var gotoNewOfflinePage = _0x298251;
+      var sSep = window["location"][gotoNewOfflinePage(469)];
+      $["getJSON"]("https://member.kangrian.net/api/web-cek?prod_id=2&url=" + sSep, function(myPreferences) {
+        var sExp = gotoNewOfflinePage;
+        console[sExp(528)]();
+        if (myPreferences[sExp(408)] == 200) {
+          localStorage[sExp(386)]("kr", 1);
+          console[sExp(528)](thx_message);
+        } else {
+          var dayNames = sExp(435) + sSep + sExp(384);
+          $(dayNames)[sExp(458)](sExp(524));
+        }
+      });
+    };
+  } else {
+    console["log"](thx_message);
+  }
+}
+;
